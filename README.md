@@ -20,15 +20,15 @@ Carla_Map_generate 정리
 1. MathWorks 계정 로그인
 2. 우측 상단 프로필 → **라이센스 연결**
 
-```markdown
+
 ![라이센스 연결](images/carla1.png)
-```
+
 
 3. RoadRunner 활성화 키 입력
 
-```markdown
+
 ![활성화 키 입력](./images/carla2.png)
-```
+
 
 4. 라이센스 연결 후 다운로드 진행
    → **RoadRunner 제품 다운로드**
@@ -51,9 +51,9 @@ Carla_Map_generate 정리
 * PC username
 * IP 주소
 
-```markdown
+
 ![라이센스 생성](./images/carla3.png)
-```
+
 
 ---
 
