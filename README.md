@@ -128,7 +128,8 @@ Carla_Map_generate 정리
 * Import Textures ✔
 
 ```markdown
-![import 설정](./images/image6.png)
+![import 설정](./images/image6-1.png)
+![상세 설명](./images/image6-2.png)
 ```
 
 ---
@@ -171,7 +172,9 @@ Collision Complexity → Use Complex Collision As Simple
 ```
 
 ```markdown
-![collision 설정](./images/image8.png)
+![collision 설정1](./images/image8-1.png)
+![collision 설정2](./images/image8-2.png)
+![collision 설정3](./images/image8-3.png)
 ```
 
 ---
