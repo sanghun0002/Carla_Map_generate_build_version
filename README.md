@@ -86,17 +86,17 @@ Carla_Map_generate 정리
 | Apply Material Color    | 필요 시  |
 | Export To Tiles         | 대형 맵만 |
 
-```markdown
+
 ![export 설정](./images/carla4.png)
-```
+
 
 ---
 
 ## ✔ Export 실행
 
-```markdown
+
 ![export 실행](./images/carla5.png)
-```
+
 
 * 지정 경로에 `.fbx` 생성
 
@@ -127,10 +127,10 @@ Carla_Map_generate 정리
 
 * Import Textures ✔
 
-```markdown
+
 ![import 설정](./images/carla6-1.png)
 ![상세 설명](./images/carla6-2.png)
-```
+
 
 ---
 
@@ -148,9 +148,9 @@ File → New Level
 
 * World Outliner에 드래그
 
-```markdown
+
 ![static mesh](./images/carla7.png)
-```
+
 
 ---
 
@@ -171,11 +171,11 @@ File → New Level
 Collision Complexity → Use Complex Collision As Simple
 ```
 
-```markdown
+
 ![collision 설정1](./images/carla8-1.png)
 ![collision 설정2](./images/carla8-2.png)
 ![collision 설정3](./images/carla8-3.png)
-```
+
 
 ---
 
@@ -214,9 +214,8 @@ File → Save
 Play 버튼 → 시뮬레이션 실행
 ```
 
-```markdown
+
 ![simulation](./images/carla10.png)
-```
 
 ---
 
@@ -238,9 +237,7 @@ Build → Build Lighting Only
 * SunLight
 * SkyLight
 
-```markdown
 ![light 설정](./images/carla11.png)
-```
 
 ---
 
@@ -266,9 +263,8 @@ Content/Carla/static/TrafficLight
 
 * 교차로 전체 영역
 
-```markdown
+
 ![traffic light](./images/carla12.png)
-```
 
 ---
 
@@ -299,9 +295,7 @@ Content/Carla/static/TrafficLight
 * Z축 높이 올리기
 * 차량은 X+ 방향으로 생성됨
 
-```markdown
 ![spawn point](./images/carla13.png)
-```
 
 ---
 
@@ -332,9 +326,8 @@ File → Cook Content for Linux
 * `.uasset`
 * `.ubulk`
 
-```markdown
+
 ![cook 결과](./images/carla14.png)
-```
 
 ---
 
@@ -370,9 +363,9 @@ CarlaUE4/Content/Carla/Maps/OpenDrive/
 
 * CARLA 실행 후 맵 선택 가능
 
-```markdown
+
 ![final map](./images/carla15.png)
-```
+
 
 ---
 
