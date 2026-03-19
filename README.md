@@ -21,7 +21,7 @@ Carla_Map_generate 정리
 2. 우측 상단 프로필 → **라이센스 연결**
 
 ```markdown
-![라이센스 연결](./images/carla1.png)
+![라이센스 연결](images/carla1.png)
 ```
 
 3. RoadRunner 활성화 키 입력
