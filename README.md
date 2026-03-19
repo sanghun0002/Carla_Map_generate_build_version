@@ -46,7 +46,7 @@ Carla_Map_generate 정리
 3. **컴퓨터 활성화**
 4. license.lic 다운로드
 
-### 📌 필요 정보
+###  필요 정보
 
 * PC username
 * IP 주소
@@ -290,7 +290,7 @@ Content/Carla/static/TrafficLight
 1. Place Actors → Vehicle Spawn Point
 2. 위치 배치
 
-### 📌 주의
+###  주의
 
 * Z축 높이 올리기
 * 차량은 X+ 방향으로 생성됨
