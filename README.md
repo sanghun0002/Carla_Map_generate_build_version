@@ -21,13 +21,13 @@ Carla_Map_generate 정리
 2. 우측 상단 프로필 → **라이센스 연결**
 
 ```markdown
-![라이센스 연결](./images/license_connect.png)
+![라이센스 연결](./images/image1.png)
 ```
 
 3. RoadRunner 활성화 키 입력
 
 ```markdown
-![활성화 키 입력](./images/license_key.png)
+![활성화 키 입력](./images/image2.png)
 ```
 
 4. 라이센스 연결 후 다운로드 진행
@@ -52,7 +52,7 @@ Carla_Map_generate 정리
 * IP 주소
 
 ```markdown
-![라이센스 생성](./images/license_generate.png)
+![라이센스 생성](./images/image3.png)
 ```
 
 ---
@@ -87,7 +87,7 @@ Carla_Map_generate 정리
 | Export To Tiles         | 대형 맵만 |
 
 ```markdown
-![export 설정](./images/export_settings.png)
+![export 설정](./images/image4.png)
 ```
 
 ---
@@ -95,7 +95,7 @@ Carla_Map_generate 정리
 ## ✔ Export 실행
 
 ```markdown
-![export 실행](./images/export_run.png)
+![export 실행](./images/image5.png)
 ```
 
 * 지정 경로에 `.fbx` 생성
@@ -128,7 +128,7 @@ Carla_Map_generate 정리
 * Import Textures ✔
 
 ```markdown
-![import 설정](./images/import_settings.png)
+![import 설정](./images/image6.png)
 ```
 
 ---
@@ -148,7 +148,7 @@ File → New Level
 * World Outliner에 드래그
 
 ```markdown
-![static mesh](./images/static_mesh.png)
+![static mesh](./images/image7.png)
 ```
 
 ---
@@ -171,7 +171,7 @@ Collision Complexity → Use Complex Collision As Simple
 ```
 
 ```markdown
-![collision 설정](./images/collision.png)
+![collision 설정](./images/image8.png)
 ```
 
 ---
@@ -199,7 +199,7 @@ Collision Complexity → Use Complex Collision As Simple
 * Generate Routes 클릭
 
 ```markdown
-![opendrive 설정](./images/opendrive.png)
+![opendrive 설정](./images/image9.png)
 ```
 
 ---
@@ -212,7 +212,7 @@ Play 버튼 → 시뮬레이션 실행
 ```
 
 ```markdown
-![simulation](./images/simulation.png)
+![simulation](./images/image10.png)
 ```
 
 ---
@@ -236,7 +236,7 @@ Build → Build Lighting Only
 * SkyLight
 
 ```markdown
-![light 설정](./images/light.png)
+![light 설정](./images/image11.png)
 ```
 
 ---
@@ -264,7 +264,7 @@ Content/Carla/static/TrafficLight
 * 교차로 전체 영역
 
 ```markdown
-![traffic light](./images/traffic_light.png)
+![traffic light](./images/image12.png)
 ```
 
 ---
@@ -297,7 +297,7 @@ Content/Carla/static/TrafficLight
 * 차량은 X+ 방향으로 생성됨
 
 ```markdown
-![spawn point](./images/spawn.png)
+![spawn point](./images/image13.png)
 ```
 
 ---
@@ -330,7 +330,7 @@ File → Cook Content for Linux
 * `.ubulk`
 
 ```markdown
-![cook 결과](./images/cook.png)
+![cook 결과](./images/image14.png)
 ```
 
 ---
@@ -368,7 +368,7 @@ CarlaUE4/Content/Carla/Maps/OpenDrive/
 * CARLA 실행 후 맵 선택 가능
 
 ```markdown
-![final map](./images/final.png)
+![final map](./images/image15.png)
 ```
 
 ---
